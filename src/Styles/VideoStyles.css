@@ -1,0 +1,18 @@
+.thumb-wrap {
+    position: relative;
+    padding-bottom: 63%;
+    overflow: hidden;
+}
+iframe{
+    max-height: 779px;
+}
+.thumb-wrap iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-width: 0;
+    outline-width: 0;
+}
+
